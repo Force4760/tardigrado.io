@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://tardigrado.netlify.app/"
 defaultContentLanguage = "pt"
 landingPageURL='/topics/'
 languageCode = "pt-pt"
