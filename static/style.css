@@ -1,0 +1,18 @@
+h1, h2, h3 {
+    color: #fe5185
+}
+
+i, em, b, strong {
+    font-weight: 700;
+    color: #aaafd7;
+}
+
+pre {
+    white-space: pre;
+}
+
+img {
+    display: block;
+    max-width: 50vh !important;
+    margin: auto;
+}
