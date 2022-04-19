@@ -13,6 +13,6 @@ pre {
 
 img {
     display: block;
-    max-width: 50vh !important;
+    max-width: 50% !important;
     margin: auto;
 }
